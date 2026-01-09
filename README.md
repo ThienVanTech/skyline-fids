@@ -209,7 +209,7 @@ Copyright © 2024 ThienVanTech. All rights reserved.
 
 ### 📞 Liên hệ
 
-Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ qua GitHub Issues hoặc email support.
+Nếu có bất kỳ câu hỏi nào, vui lòng tạo issue trên [GitHub Issues](https://github.com/ThienVanTech/skyline-fids/issues).
 
 ---
 
@@ -415,7 +415,7 @@ Copyright © 2024 ThienVanTech. All rights reserved.
 
 ### 📞 Contact
 
-For any questions, please contact via GitHub Issues or email support.
+For any questions, please create an issue on [GitHub Issues](https://github.com/ThienVanTech/skyline-fids/issues).
 
 ---
 
